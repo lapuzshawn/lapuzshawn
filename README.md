@@ -31,16 +31,16 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/lapuzshawn)
 
 ### ML/DL
-[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/lapuzshawn)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/lapuzshawn)
 [![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com/lapuzshawn)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/lapuzshawn)
 
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/lapuzshawn)
+
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/lapuzshawn)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/lapuzshawn)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/lapuzshawn)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/)
 
 ### OS
