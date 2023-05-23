@@ -1,15 +1,16 @@
 ### Welcome to Shawn's Github  
 
-<h1 align="center">Hello, World! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hello, World! <img src="" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my passion projects!</b><br><br>
+    <b>Welcome to my Passion Projects!</b><br><br>
     <i>
         I'm Shawn.<br>
-        Currently intergrating AI with Web and Mobile App Development .<br>
-        Only open to collaborating on interesting and innovative projects.<br>
+        Currently intergrating AI/ML/DL with Web and Mobile App Development .<br>
+        Open to collaborating on innovative projects.<br>
+        Feel free to reach out to me on LinkedIn.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/">
+    <a href="https://www.linkedin.com/in/lapuzshawn">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.kaggle.com/">
