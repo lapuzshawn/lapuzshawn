@@ -44,8 +44,8 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/)
 
 ### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
-
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/lapuzshawn)
+[![Apple](https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple)](https://github.com/lapuzshawn)
 
 <details>
 <p align="center">
