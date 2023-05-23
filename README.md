@@ -36,10 +36,13 @@
 
 ### Technologies & Frameworks
 
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/lapuzshawn)
+[![ExpressJS](https://img.shields.io/badge/expressjs-black?style=for-the-badge&logo=expressjs)](https://github.com/lapuzshawn)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/lapuzshawn)
+[![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodejs)](https://github.com/lapuzshawn)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/)
-[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/lapuzshawn)
+
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/lapuzshawn)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/)
 
