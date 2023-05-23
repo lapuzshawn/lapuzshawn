@@ -39,7 +39,7 @@
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/lapuzshawn)
 [![ExpressJS](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/lapuzshawn)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/lapuzshawn)
-[![NodeJS](https://img.shields.io/badge/node-black?style=for-the-badge&logo=node)](https://github.com/lapuzshawn)
+[![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodejs)](https://github.com/lapuzshawn)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/)
 
