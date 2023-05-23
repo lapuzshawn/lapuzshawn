@@ -30,7 +30,8 @@
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/lapuzshawn)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/lapuzshawn)
 
-### ML/DL
+### AI | ML | DL
+[![ChatGPT](https://img.shields.io/badge/chatgpt-black?style=for-the-badge&logo=chatgpt)](https://github.com/lapuzshawn)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/lapuzshawn)
 [![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com/lapuzshawn)
 
