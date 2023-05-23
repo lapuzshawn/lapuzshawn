@@ -1,6 +1,6 @@
 ### Welcome to Shawn's Github  
 
-<h1 align="center">Hello, World! <img src="" width="28px" alt="👋"></h1>
+<h1 align="center">Hello, World! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my Passion Projects!</b><br><br>
