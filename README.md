@@ -5,7 +5,7 @@
 <p align="center">
     <b>Welcome to my Passion Projects!</b><br><br>
     <i>
-        I'm Shawn.<br>
+        Experienced in Business Lending, Real Estate Investment Lending, Real Estate Acquisitions, Specializing in B2B Markets.<br>
         Currently intergrating AI/ML/DL with Web and Mobile App Development .<br>
         Open to collaborating on innovative projects.<br>
         Feel free to reach out to me on LinkedIn.<br>
