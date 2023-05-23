@@ -1,9 +1,9 @@
 ### Welcome to Shawn's Github  
 
-<h1 align="center">Hello, world! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hello, World! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my Github!</b><br><br>
+    <b>Welcome to my passion projects!</b><br><br>
     <i>
         I'm Shawn.<br>
         Currently intergrating AI with Web and Mobile App Development .<br>
@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://github.com/lapuzshawn">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=lapuzshawn&color=blue&style=flat)" />
   </a>
 </p>
 
