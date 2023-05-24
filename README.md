@@ -34,7 +34,7 @@
 
 
 ### AI | ML | DL
-[![OpenAI](https://img.shields.io/badge/chatgpt-black?style=for-the-badge&logo=chatgpt)](https://github.com/lapuzshawn)
+[![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=OpenAI)](https://github.com/lapuzshawn)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/lapuzshawn)
 [![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com/lapuzshawn)
 
