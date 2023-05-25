@@ -53,7 +53,7 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/lapuzshawn)
 [![Apple](https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple)](https://github.com/lapuzshawn)
 
-<details>
+
 <p align="center">
   <a href="https://github.com/lapuzshawn">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lapuzshawn&theme=transparent" />
@@ -66,7 +66,7 @@
   </a>
  
 </p>
-</details>
+
 
 <p align="center">
   <a href="https://github.com/lapuzshawn">
@@ -74,8 +74,13 @@
   </a>
 </p>
 
-
-
+<details>
+    <p align="center">
+  <a href="https://github.com/lapuzshawn">
+    <img src="https://image.pngaaa.com/348/34348-middle.png" />
+  </a>
+</p>
+</details>
 <!--
 ### Hi there 👋
 - 🔭 I’m currently working on ...
