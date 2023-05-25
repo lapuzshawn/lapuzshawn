@@ -21,6 +21,8 @@
     </a>
 </p>
 
+
+
 ### Languages
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/)
@@ -54,6 +56,8 @@
 [![Apple](https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple)](https://github.com/lapuzshawn)
 
 
+
+
 <p align="center">
   <a href="https://github.com/lapuzshawn">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lapuzshawn&theme=transparent" />
@@ -68,16 +72,19 @@
 </p>
 
 
+
 <p align="center">
   <a href="https://github.com/lapuzshawn">
     <img src="https://komarev.com/ghpvc/?username=lapuzshawn&color=blue&style=flat)" />
   </a>
 </p>
 
+
+
 <details>
     <p align="center">
   <a href="https://github.com/lapuzshawn">
-    <img src="https://image.pngaaa.com/348/34348-middle.png" />
+    <img src="https://i.dailymail.co.uk/i/pix/2016/03/18/17/32570AD700000578-3498922-image-a-73_1458323147637.jpg" />
   </a>
 </p>
 </details>
