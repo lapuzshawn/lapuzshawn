@@ -7,6 +7,7 @@
     <i>
         Experienced in Business Lending, Real Estate Investment Lending, Real Estate Acquisitions, Specializing in B2B Markets.<br>
         Currently intergrating AI/ML/DL with Web and Mobile App Development .<br>
+        <br>
         Open to collaborating on innovative projects.<br>
         Feel free to reach out to me on LinkedIn.<br>
     </i><br>
@@ -55,8 +56,9 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/lapuzshawn)
 [![Apple](https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple)](https://github.com/lapuzshawn)
 
-
-
+<br>
+<br>
+<br>
 
 <p align="center">
   <a href="https://github.com/lapuzshawn">
