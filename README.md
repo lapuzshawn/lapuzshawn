@@ -65,7 +65,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lapuzshawn&theme=transparent" />
   </a>
   <a href="https://github.com/lapuzshawn">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lapuzshawn&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lapuzshawn&hide_border=true&card_width=338&theme=transparent&exclude_days=Sun" />
   </a>
   <a href="https://github.com/lapuzshawn">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lapuzshawn&theme=transparent" />
@@ -77,7 +77,7 @@
 
 <p align="center">
   <a href="https://github.com/lapuzshawn">
-    <img src="https://komarev.com/ghpvc/?username=lapuzshawn&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=lapuzshawn&color=blue&style=for-the-badge	)" />
   </a>
 </p>
 
