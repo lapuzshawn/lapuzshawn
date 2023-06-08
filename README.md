@@ -12,7 +12,6 @@
         Feel free to reach out to me on LinkedIn.<br>
     </i><br>
     <br>
-    
     <br>
     <a href="https://www.linkedin.com/in/lapuzshawn">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
