@@ -3,14 +3,18 @@
 <h1 align="center">Hello, World! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my Passion Projects!</b><br><br>
-    <i>
+    <b>Welcome to my Passion Projects!</b>
+    <br>
+    <br>
         Experienced in Business Lending, Real Estate Investment Lending, Real Estate Acquisitions, Specializing in B2B Markets.<br>
-        Currently intergrating AI/ML/DL with Web and Mobile App Development .<br>
+        Currently intergrating AI/ML/DL with Web and Mobile App Development .
         <br>
+        <br>
+    <i>
         Open to collaborating on innovative projects.<br>
         Feel free to reach out to me on LinkedIn.<br>
-    </i><br>
+    </i>
+    <br>
     <br>
     <br>
     <a href="https://www.linkedin.com/in/lapuzshawn">
