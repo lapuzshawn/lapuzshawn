@@ -5,7 +5,7 @@
 
 
 <p align="center">
-    <b>Welcome to my Passion Projects!</b>
+    <b>Welcome to my Passion Projects</b>
     <br>
     <br>
         Experienced in Business Lending, Real Estate Investment Lending, Real Estate Acquisitions, Specializing in B2B Markets.<br>
