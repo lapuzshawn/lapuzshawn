@@ -50,6 +50,8 @@
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/lapuzshawn)
 [![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com/lapuzshawn)
 
+
+
 ### Technologies & Frameworks
 
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/lapuzshawn)
@@ -60,6 +62,8 @@
 
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/lapuzshawn)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/)
+
+
 
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/lapuzshawn)
