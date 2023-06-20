@@ -99,7 +99,7 @@
 
 
 
-
+<!--
 <details>
     <p align="center">
   <a href="https://github.com/lapuzshawn">
@@ -107,6 +107,7 @@
   </a>
 </p>
 </details>
+-->
 
 
 <!--
